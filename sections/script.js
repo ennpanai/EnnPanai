@@ -2,19 +2,19 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const images = {
         extraction: {
-            src: '../Assets/Fibre-Extraction.jpg',
+            src: 'Fibre-Extraction.jpg',
             title: 'Step 04 — Fibre Extraction',
             sub: 'Proprietary technique · Long-staple fibre separation · Viruppatchi, Dindigul'
         },
 
         drying: {
-            src: '../Assets/Solar-Drying.jpg',
+            src: 'Solar-Drying.jpg',
             title: 'Step 05 — Solar Drying',
             sub: 'Chemical-free · Sun-dried · Zero artificial energy'
         },
 
         spinning: {
-            src: '../Assets/Spinning.jpg',
+            src: 'Spinning.jpg',
             title: 'Step 07 — Spinning',
             sub: '90:10 Cotton-Palmyra Blend · Ring-frame Spun · Apparel Grade'
         }
