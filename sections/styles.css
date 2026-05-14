@@ -33,6 +33,15 @@
 }
 
 html { scroll-behavior: smooth; }
+
+/* Prevent app-root from creating a stacking context that breaks position:fixed on nav */
+#app-root {
+  transform: none !important;
+  filter: none !important;
+  will-change: auto !important;
+  isolation: auto !important;
+}
+
 body {
   font-family: var(--sans);
   background: var(--warm-white);
