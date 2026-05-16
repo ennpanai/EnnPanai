@@ -1,4 +1,4 @@
-/* ═══════════════════════════════════════════════════════════════════════════
+/* /* ═══════════════════════════════════════════════════════════════════════════
    mobile-fixes.css  —  Enn Panai Private Limited
    Fixes:  half-visible images on mobile, oversized images, alignment issues
    Import AFTER styles.css so these rules take precedence.
@@ -368,4 +368,4 @@ html,
 body {
   overflow-x: hidden;
   max-width: 100vw;
-}
+} */
